@@ -21,10 +21,10 @@ Welcome! Your contributions help the Kadena Pact Community Foundation grow and i
 - All discussions and contributions should follow the [Foundation Code of Conduct](Code-of-Conduct.md).
 
 ## Quick Links
-- [Home](Home.md)
+- [Home](wiki-home.md)
 - [About](About.md)
 - [Roadmap](Roadmap.md)
-- [Code of Conduct](Code-of-Conduct.md)
+- [Contact / Community](Contact.md)
 
 ---
 

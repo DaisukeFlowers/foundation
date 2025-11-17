@@ -4,7 +4,7 @@
 **To make it easy and safe for businesses to start building on Kadena.**
 
 ## Vision
-**A thriving Kadena ecosystem where new and existing businesses can launch confidently, supported by trusted, audited smart contracts and ready-to-use building blocks.**
+**A Kadena environment where businesses start strong, using proven Pact contracts that are safe, reliable, and ready to deploy.**
 
 ---
 
@@ -22,18 +22,18 @@ The Kadena Pact Community Foundation is an open, community-driven initiative tha
 ---
 
 ## Get Started
-1. Explore our [About](About) page to learn more about the foundation.
-2. Read our [Contribute](Contribute) page to understand how to participate.
+1. Explore our [About](About.md) page to learn more about the foundation.
+2. Read our [Contribute](Contribute.md) page to understand how to participate.
 3. Join discussions via [GitHub Discussions](https://github.com/Kadena-Pact-Community-Foundation/foundation/discussions).
 4. Check out our [Pages site](https://Kadena-Pact-Community-Foundation.github.io/foundation) for a public view of the foundation.
 
 ---
 
 ## Quick Links
-- [About the Foundation](About)
-- [Contribution Guide](Contribute)
-- [Roadmap](Roadmap)
-- [Contact / Community](Contact)
+- [About the Foundation](About.md)
+- [Contribution Guide](Contribute.md)
+- [Roadmap](Roadmap.md)
+- [Contact / Community](Contact.md)
 
 ---
 
