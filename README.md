@@ -8,7 +8,7 @@ Welcome to the Pact Community Organization. This repository is the front door fo
 Make it easy and safe for businesses to start building on Kadena.
 
 ## Vision
-A thriving Kadena ecosystem where new and existing businesses can launch confidently, supported by trusted, audited smart contracts and ready-to-use building blocks.
+A trusted Kadena ecosystem where businesses can confidently start using audited, reliable open source Pact contracts.
 
 ## Documentation & Links
 - Wiki (official documentation): https://github.com/Pact-Community-Organization/foundation/wiki
