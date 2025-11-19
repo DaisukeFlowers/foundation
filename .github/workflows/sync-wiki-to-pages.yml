@@ -62,8 +62,8 @@ jobs:
       
       - name: Update docs index with Wiki links
         run: |
-          cat > docs/index.md << EOF
-          # ${GITHUB_REPOSITORY_OWNER}
+          cat > docs/index.md << 'EOF'
+          # Pact Community Organization
 
           Welcome. This is the official GitHub Pages site for our community foundation.
 

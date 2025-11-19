@@ -1,4 +1,4 @@
-# Kadena Pact Community Foundation
+# Pact Community Organization
 
 Welcome. This is the official GitHub Pages site for our community foundation.
 
@@ -17,6 +17,7 @@ A trusted Kadena ecosystem where businesses can confidently start using audited,
 - [Contact / Community](Contact.md)
 
 ## Resources
-- [GitHub Repository](https://github.com/Kadena-Pact-Community-Foundation/foundation)
-- [Wiki](https://github.com/Kadena-Pact-Community-Foundation/foundation/wiki)
-- [Discussions](https://github.com/Kadena-Pact-Community-Foundation/foundation/discussions)
+- [GitHub Repository](https://github.com/Pact-Community-Organization/foundation)
+- [Wiki](https://github.com/Pact-Community-Organization/foundation/wiki)
+- [Discussions](https://github.com/Pact-Community-Organization/foundation/discussions)
+# Migration touch
